@@ -189,7 +189,7 @@ nav img{
  
 .tea-container{
   background-color: #293241;
-  min-height: 100vh;
+  max-height: 200vh;
   width: 100%;
   color: white;
   margin: 0;
